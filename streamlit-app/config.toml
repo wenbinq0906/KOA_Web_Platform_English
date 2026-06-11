@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0173b2"                 # 主色
+secondaryBackgroundColor="#ebf7ff"
+dataframeHeaderBackgroundColor = "#ebf7ff"
+showWidgetBorder= true
+
+
+[theme.sidebar]
+backgroundColor="#0173b2"
+
